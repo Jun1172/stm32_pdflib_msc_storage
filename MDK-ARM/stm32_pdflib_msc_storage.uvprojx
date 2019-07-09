@@ -649,6 +649,16 @@
               <FileType>1</FileType>
               <FilePath>..\Drivers\pdflib\demo\author_demo.c</FilePath>
             </File>
+            <File>
+              <FileName>chinese_demo.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Drivers\pdflib\demo\chinese_demo.c</FilePath>
+            </File>
+            <File>
+              <FileName>hellowolrd_demo.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Drivers\pdflib\demo\hellowolrd_demo.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
